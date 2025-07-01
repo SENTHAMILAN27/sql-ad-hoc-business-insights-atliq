@@ -3,7 +3,7 @@
 
 ## 🔟 Questions Solved + Insights Generated
 
-| Question ❓ | 📌 Summary Insight |
+| Question❓ | 📌 Summary Insight |
 |------------|--------------------|
 | Q1 | Identified APAC markets served by **Atliq Exclusive** |
 | Q2 | Found a **36% increase** in unique products in 2021 vs 2020 |
