@@ -27,16 +27,6 @@
 
 ---
 
-## 🖼 Sample Visuals
-
-![Top Segments by Product Count](visuals/q3_segment_bar_chart.png)
-*Segments sorted by product variety*
-
-![Units vs Gross Sales](visuals/q10_unit_vs_revenue.png)
-*PC division has lowest unit sales but nearly matches others in gross revenue*
-
----
-
 ## 📄 Full Report (PDF)
 
 You can download the full presentation here:  
